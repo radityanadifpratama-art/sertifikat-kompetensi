@@ -6,8 +6,8 @@ Repositori ini berisi daftar sertifikasi kompetensi resmi yang telah saya selesa
 
 | Kategori Fondasi | Nama Sertifikasi / Kelas | Penerbit (Issuer) | Tahun |
 | :--- | :--- | :--- | :--- |
-| **Programming & OOP Foundations** | • Belajar Prinsip Pemrograman SOLID <br> • Memulai Pemrograman Dengan C | Dicoding | 2026 |
-| | • Programming Course: Beginner Level | Timedoor Academy | 2026 |
+| **Programming & OOP Foundations** | • Belajar Prinsip Pemrograman SOLID <br> • Memulai Pemrograman Dengan C | Dicoding | 2025 / 2026 |
+| | • Programming Course: Beginner Level | Timedoor Academy | 2025 |
 | **Advanced Logic & AI Foundations** | • Memulai Pemrograman dengan Haskell <br> • Belajar Dasar AI | Dicoding | 2026 |
 | | • Coding Course: Coding Xplorer Level | Timedoor Academy | 2026 |
 
