@@ -20,9 +20,9 @@ Repositori ini berisi daftar sertifikasi kompetensi resmi yang telah saya selesa
 | Kategori Fondasi | Nama Sertifikasi / Kelas | Penerbit (Issuer) |
 | :--- | :--- | :--- |
 | **Programming & OOP Foundations** | • [Belajar Prinsip Pemrograman SOLID](sertifikat_course_169_5207216_090626123057.pdf) <br> • [Memulai Pemrograman Dengan C](sertifikat_course_120_5207216_090626095345.pdf) | Dicoding |
-| | • <a href="Programming Course Beginner Level.jpeg">Programming Course: Beginner Level</a> | Timedoor Academy |
-| **Advanced Logic & AI Foundations** | • [Memulai Pemrograman dengan Haskell](sertifikat_course_605_5207216_110626143951.pdf) <br> • [Belajar Dasar AI](Sertifikat Kompetensi - Dicoding Indonesia.pdf) | Dicoding |
-| | • <a href="Coding Course Coding Xplorer Level.jpg">Coding Course: Coding Xplorer Level</a> | Timedoor Academy |
+| | • [Programming Course: Beginner Level](Programming%20Course%20Beginner%20Level.jpeg) | Timedoor Academy |
+| **Advanced Logic & AI Foundations** | • [Memulai Pemrograman dengan Haskell](sertifikat_course_605_5207216_110626143951.pdf) <br> • [Belajar Dasar AI](Sertifikat%20Kompetensi%20-%20Dicoding%20Indonesia.pdf) | Dicoding |
+| | • [Coding Course: Coding Xplorer Level](Coding%20Course%20Coding%20Xplorer%20Level.jpeg) | Timedoor Academy |
 
 ---
-*Catatan: Klik pada nama sertifikasi di atas untuk melihat atau mengunduh dokumen fisik asli yang telah terverifikasi.*asi.*
+*Catatan: Klik pada nama sertifikasi di atas untuk melihat atau mengunduh dokumen fisik asli yang telah terverifikasi.*
